@@ -110,5 +110,4 @@ instances:
 health-check: |
   set -e
 
-  minikube status
   kubectl cluster-info
